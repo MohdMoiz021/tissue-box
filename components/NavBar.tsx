@@ -10,7 +10,7 @@ export default function NavBar() {
     <header className="absolute top-0 left-0 right-0 z-30">
       <nav className="mx-auto flex max-w-6xl items-center justify-between px-6 py-6 md:px-10">
         <a href="#top" className="font-display italic text-2xl text-pine-dark">
-          Yobysin
+          Yobysin t
         </a>
         <ul className="hidden items-center gap-8 md:flex">
           {links.map((link) => (
