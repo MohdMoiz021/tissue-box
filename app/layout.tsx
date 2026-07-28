@@ -16,7 +16,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Yobysin — Tissues, Softer Than Everyday Uses",
+  title: "Yobysin — Tissues, Softer Than Everyday Use",
   description:
     "Yobysin tissues are cloud-soft, plant-based, and made for every face in the family. Shop the collection or find us on Amazon.",
 };
