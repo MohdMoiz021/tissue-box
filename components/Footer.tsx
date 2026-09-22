@@ -5,6 +5,8 @@ const links = [
   { href: "#about", label: "About" },
 ];
 
+
+// Footer Code
 export default function Footer() {
   return (
     <footer className="bg-paper py-12">
