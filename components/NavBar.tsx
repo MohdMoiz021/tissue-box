@@ -4,7 +4,7 @@ const links = [
   { href: "#amazon", label: "Order on Amazon" },
   { href: "#about", label: "About" },
 ];
-
+// changes
 export default function NavBar() {
   return (
     <header className="absolute top-0 left-0 right-0 z-30">
