@@ -4,7 +4,7 @@ type Props = {
   tissueColor?: string;
   className?: string;
 };
-
+// Changes
 export default function TissueBoxArt({
   boxColor = "#4C6B57",
   lidColor = "#33473A",
